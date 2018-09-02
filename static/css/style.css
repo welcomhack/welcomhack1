@@ -573,7 +573,7 @@ a.m-btn-01:active {
 
 @media (max-width: 991px){
   .particles-box {
-    height: 120vh;
+    height: 100vh;
   }
 
   .fixed-header-body .particles-box {
