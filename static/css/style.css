@@ -102,6 +102,9 @@ button:focus{
 /*-------------------------------------------------------*/
 .section {
 	padding: 100px 0;
+	background-image: url(static/img/blogwell.png);
+	background-repeat: no-repeat;
+	background-color: rgba(0,0,0, .5);
 }
 
 .grey-bg{
@@ -1222,6 +1225,7 @@ a.m-btn-01:active {
 /*-------------------------------------------------------*/
   /* Blog */
 /*-------------------------------------------------------*/
+
 .blog-item {
 	background: #fff;
 	border-radius: 10px;
