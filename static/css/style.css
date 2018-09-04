@@ -1222,6 +1222,11 @@ a.m-btn-01:active {
 /*-------------------------------------------------------*/
   /* Blog */
 /*-------------------------------------------------------*/
+.blog-section{
+	background-image: url(static/img/blogwell.png);
+	background-repeat: no-repeat;
+	background-color: rgba(0,0,0, .5);
+}
 .blog-item {
 	background: #fff;
 	border-radius: 10px;
