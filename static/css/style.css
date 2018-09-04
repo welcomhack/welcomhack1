@@ -104,7 +104,7 @@ button:focus{
 	padding: 100px 0;
 	
 }
-.blog-section{
+.blog-container{
 	background-image: url(static/img/blogwell.gpg);
 	background-repeat: no-repeat;
 	background-color: rgba(0,0,0, .5);
