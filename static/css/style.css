@@ -102,7 +102,10 @@ button:focus{
 /*-------------------------------------------------------*/
 .section {
 	padding: 100px 0;
-	background-image: url(static/img/blogwell.png);
+	
+}
+.blog-section{
+	background-image: url(static/img/blogwell.gpg);
 	background-repeat: no-repeat;
 	background-color: rgba(0,0,0, .5);
 }
