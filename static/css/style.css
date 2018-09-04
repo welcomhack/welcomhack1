@@ -183,6 +183,7 @@ button:focus{
 .social-link ul { 
 	margin: 0;
 	padding: 0;
+	text-align: center;
 }
 .social-link li{
 	display: inline-block;
