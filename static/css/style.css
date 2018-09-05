@@ -369,6 +369,7 @@ a.m-btn-01:active {
 .header .logo a {
 	color: #fff;
 	text-decoration: none;
+	font-weight: bold;
 }
 .header .navbar { 
 	margin: 0;
