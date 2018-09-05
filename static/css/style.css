@@ -543,7 +543,7 @@ a.m-btn-01:active {
 }
 .particles-box .container {
   position: relative;
-  min-height: 100%;
+  min-height: 100vh;
 }
 .particles-box .banner-center-text {
   position: absolute;
