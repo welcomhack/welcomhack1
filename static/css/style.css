@@ -259,6 +259,7 @@ a.m-btn-01:active {
 }
 
 .m-btn-01 {
+	font-family: 'Poppins', sans-serif;
 	line-height: 50px;
 	padding: 0 25px;
 	border: none;
