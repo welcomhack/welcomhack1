@@ -173,6 +173,7 @@ button:focus{
 .section-title-01 h2 {
 	margin: 0;
 	padding: 0 0 15px 0;
+	
 	font-weight: 800;
 	color: #fff;
 	font-size: 48px;
@@ -577,6 +578,7 @@ a.m-btn-01:active {
 	left: 0;
 	right: 0;
 	bottom: 0;
+	height: 100vh;
 }
 
 @media (max-width: 991px){
