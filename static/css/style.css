@@ -247,7 +247,10 @@ button:focus{
 	background: #fff;
 	color: #000;
 }
-
+.link-contacme{
+	text-decoration: none;
+	color:#fff;
+}
 a.m-btn-01:hover,
 a.m-btn-01:focus,
 a.m-btn-01:active {
