@@ -578,6 +578,7 @@ a.m-btn-01:active {
 	vertical-align: top;
 	padding: 8px 15px;
 	color: #fff;
+	border-radius:25px;
 }
 
 .particles-box .particles-js-canvas-el {
