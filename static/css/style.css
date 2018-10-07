@@ -188,7 +188,9 @@ button:focus{
 /* Section blog*/
 /*---------------------------------------------------------*/
 .blog-section{
-	background: url(https://i.ytimg.com/vi/1bXOUEJbhAw/maxresdefault_live.jpg)
+	background: url(https://i.ytimg.com/vi/1bXOUEJbhAw/maxresdefault_live.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 .blog-section h2{
 	color: #fff;
