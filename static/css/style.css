@@ -184,7 +184,14 @@ button:focus{
 	max-width: 100%;
 	display: inline-block;
 }
-
+/*---------------------------------------------------------*/
+/* Section blog*/
+/*---------------------------------------------------------*/
+.blog-section{
+	background: url(https://i.ytimg.com/vi/1bXOUEJbhAw/maxresdefault_live.jpg)
+}
+.blog-section h2{
+	color: #fff;
 /*-------------------------------------------------------*/
   /* social link */
 /*-------------------------------------------------------*/
