@@ -184,7 +184,17 @@ button:focus{
 	max-width: 100%;
 	display: inline-block;
 }
-
+/*---------------------------------------------------------*/
+/* Section blog*/
+/*---------------------------------------------------------*/
+.blog-section{
+	background: url(https://i.ytimg.com/vi/1bXOUEJbhAw/maxresdefault_live.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.blog-section h2{
+	color: #fff;
+}
 /*-------------------------------------------------------*/
   /* social link */
 /*-------------------------------------------------------*/
@@ -280,7 +290,7 @@ a.m-btn-01:active {
     	 -o-transition: all .2s ease;
     		transition: all .2s ease;
 }
-.m-btn-01 a{
+.col-md-12 .action .m-btn-01 a{
 	text-decoration:none;
 	color: #fff;
 }
@@ -578,6 +588,7 @@ a.m-btn-01:active {
 	vertical-align: top;
 	padding: 8px 15px;
 	color: #fff;
+	border-radius:25px;
 }
 
 .particles-box .particles-js-canvas-el {
